@@ -21,7 +21,9 @@ A Python data analysis project exploring one year of synthetic coffee shop sales
 | `products.csv` | 40 | Product catalogue containing product details, categories and pricing/cost information. |
 | `daily_inventory.csv` | 14,600 | Daily inventory records for 40 products across 365 days. |
 
-The datasets are synthetic and are intended for analysis and portfolio demonstration, not to represent the performance of a real business.
+### Dataset origin
+
+The datasets are synthetically generated with AI assistance for educational and portfolio purposes. They do not represent real business transactions.
 
 ## Tools and technologies
 
